@@ -62,5 +62,5 @@ Ensure these files are present in the project directory for the system to functi
 Enjoy using the AI-Powered Resume Screening System! 🚀
 
 ## Demo Screenshots  
-![App Dashboard](assets/screenshots/dashboard.png)  
-![Resume Ranking](assets/screenshots/ranking.png)  
+![App Dashboard](assets/screenshots/resumeapp.pdf)  
+![Resume Ranking](assets/screenshots/resumeapp.mp4)  
