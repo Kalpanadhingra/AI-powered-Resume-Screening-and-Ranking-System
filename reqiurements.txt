@@ -17,3 +17,9 @@ threadpoolctl==3.5.0
 tzdata==2024.2
 Werkzeug==3.1.3
 PyPDF2==3.0.1
+streamlit
+pandas
+numpy
+scikit-learn
+PyPDF2
+nltk
